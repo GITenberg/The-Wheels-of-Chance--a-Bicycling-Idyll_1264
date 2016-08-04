@@ -1,0 +1,33 @@
+_repo: The-Wheels-of-Chance--a-Bicycling-Idyll_1264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: The Wheels of Chance is a comic novel by H.G. Wells, written at the peak
+  of what has been called the Golden Age of the bicycle, the years of 1890-1905, when
+  practical, comfortable bicycles first became widely and cheaply available, and before
+  the rise of the automobile. The advent of the bicycle stirred sudden and profound
+  changes in the social life of England. It was unprecedented that a person of modest
+  means could travel substantial distances, quickly, cheaply and without being limited
+  to railway schedules ...
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cycling -- Fiction'
+- !lcsh 'England -- Social conditions -- 19th century -- Fiction'
+- GITenberg
+title: 'The Wheels of Chance: A Bicycling Idyll'
+url: http://www.gutenberg.org/ebooks/1264
